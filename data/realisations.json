@@ -1,0 +1,174 @@
+{
+  "title": "Nos réalisations",
+  "description": "Toute nos réalisations sont disponibles à la Scred boutique : 80, rue Marcadet – 75018 Paris – www.scredboutique.com. Nos projets sont également disponible sur toutes les plateformes de streaming et de téléchargement.",
+  "albums": [
+    {
+      "id": "24",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681801330/AnonymousLabel/covers/Degy/degy-album_e7qhib.jpg",
+      "name": "Degy Le Resk.p",
+      "type": "Album",
+      "link": ""
+    },
+    {
+      "id": "23",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782255/AnonymousLabel/albums/blueberry_z6ziyq.jpg",
+      "name": "Oner feat Manita",
+      "type": "Single",
+      "link": "https://www.youtube.com/watch?v=4ZliZoDAeHw"
+    },
+    {
+      "id": "22",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782260/AnonymousLabel/albums/nizuk-scam-leon_hjgxa2.jpg",
+      "name": "Scam Leon",
+      "type": "Ep",
+      "link": "https://scam-leon.bandcamp.com/album/33"
+    },
+    {
+      "id": "21",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782256/AnonymousLabel/albums/stevy-enay-restart_atliuv.jpg",
+      "name": "Stevy Enay",
+      "type": "Single",
+      "link": "https://open.spotify.com/track/7iDECsRqrN9bKmyx0RqLqo"
+    },
+    {
+      "id": "20",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782259/AnonymousLabel/albums/daenerys-skiizo_phjde4.jpg",
+      "name": "SkiiZo",
+      "type": "Single",
+      "link": ""
+    },
+    {
+      "id": "19",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782261/AnonymousLabel/albums/maelyss-pas-dispo_kzxvbv.jpg",
+      "name": "Maëlyss",
+      "type": "Single",
+      "link": "https://open.spotify.com/album/2cW9S3DqkzRXrnuLbvCLFA"
+    },
+    {
+      "id": "18",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782254/AnonymousLabel/albums/system-d_vx6sdc.jpg",
+      "name": "System D",
+      "type": "Compilation",
+      "link": "https://open.spotify.com/album/3hqnMtg81h7kxxt4dEdTh8?highlight=spotify:track:6OygchASbA838HelJ4aTea"
+    },
+    {
+      "id": "17",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782259/AnonymousLabel/albums/rod-baby-girl_elv6hc.jpg",
+      "name": "R.O.D",
+      "type": "Single",
+      "link": "https://open.spotify.com/album/2KEmmrNMCaQvBltnlxDSHK"
+    },
+    {
+      "id": "16",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782259/AnonymousLabel/albums/berlan-x-bud_tso1bl.jpg",
+      "name": "Berlan",
+      "type": "Single",
+      "link": "https://www.youtube.com/channel/UCeb5Fl-l4-knNGm1MWc0pqA/featured"
+    },
+    {
+      "id": "15",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782256/AnonymousLabel/albums/maelyss-vie_lbwuy0.jpg",
+      "name": "Maëlyss",
+      "type": "Single",
+      "link": "https://smarturl.it/SurMaVie"
+    },
+    {
+      "id": "14",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782254/AnonymousLabel/albums/skiizo-cmatin_xtkf0g.jpg",
+      "name": "SkiiZo",
+      "type": "Single",
+      "link": "https://open.spotify.com/album/2qPvkqECqNetpRatDGKIVt"
+    },
+    {
+      "id": "13",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782259/AnonymousLabel/albums/berlan-mis-a-jour_iea6yq.jpg",
+      "name": "Berlan",
+      "type": "Album",
+      "link": "https://scredboutique.com/accueil/album-cd-berlan-mis-a-jour.html"
+    },
+    {
+      "id": "12",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782253/AnonymousLabel/albums/lascaride-ciel-terre_irriqh.jpg",
+      "name": "Lascaride",
+      "type": "Album",
+      "link": "https://scredboutique.com/accueil/album-cd-lascaride-antre-ciel-et-terre.html"
+    },
+    {
+      "id": "11",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782253/AnonymousLabel/albums/evil-venon-noruff_khsq6e.jpg",
+      "name": "Evil venon x Noruff",
+      "type": "Album",
+      "link": "https://noruff.bandcamp.com/album/evil-venom-x-noruff-formez-les-rangs"
+    },
+    {
+      "id": "10",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782259/AnonymousLabel/albums/slim-arrivage_ooghsx.jpg",
+      "name": "Slim",
+      "type": "Ep",
+      "link": "https://scredboutique.com/accueil/album-cd-slim-nouvel-arrivage.html"
+    },
+    {
+      "id": "9",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782253/AnonymousLabel/albums/saf-noruff-revolverbe_mpjitk.jpg",
+      "name": "Saf Noruff",
+      "type": "Ep",
+      "link": "https://noruff.bandcamp.com/album/revolverbe-vol-1"
+    },
+    {
+      "id": "8",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782255/AnonymousLabel/albums/bastos-old-timer_vj6xq1.jpg",
+      "name": "Bastos Old Timer",
+      "type": "Ep",
+      "link": ""
+    },
+    {
+      "id": "7",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782258/AnonymousLabel/albums/noruff-passe_zhlede.jpg",
+      "name": "Noruff",
+      "type": "Ep",
+      "link": "https://noruff.bandcamp.com/album/passe-passe"
+    },
+    {
+      "id": "6",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782261/AnonymousLabel/albums/rodkilla-hommes_elrrqx.jpg",
+      "name": "Rodkilla",
+      "type": "Single",
+      "link": ""
+    },
+    {
+      "id": "5",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782255/AnonymousLabel/albums/evil-venon-lundercover_gq2yso.jpg",
+      "name": "Evil venon x Lundercover",
+      "type": "Single",
+      "link": ""
+    },
+    {
+      "id": "4",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782257/AnonymousLabel/albums/rodkilla-ovni_va10kh.jpg",
+      "name": "Rodkilla",
+      "type": "Album",
+      "link": "https://scredboutique.com/rap-francais/album-cd-rodkilla-the-ovni.html"
+    },
+    {
+      "id": "3",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782253/AnonymousLabel/albums/Alphas-city_c9ze1b.jpg",
+      "name": "Les Alphas",
+      "type": "Ep",
+      "link": "https://open.spotify.com/album/4ZQeUVyIGH1xoFmcGwGkiu"
+    },
+    {
+      "id": "2",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782257/AnonymousLabel/albums/skiizo-ep_ma7n4l.jpg",
+      "name": "SkiiZo",
+      "type": "Ep",
+      "link": ""
+    },
+    {
+      "id": "1",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782257/AnonymousLabel/albums/skiizo-ramses_ygxqqh.jpg",
+      "name": "SkiiZo",
+      "type": "Ep",
+      "link": "https://scredboutique.com/decouvertes-inde/album-cd-skiizo-ramses-ii.html"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "title": "Artistes",
+  "presentation": "Le label représente des auteurs, compositeur, beatmakers, chanteurs tels que: 2mezur, Berlan, Dr.R & Mr.M, Evil Venom, Lascaride, Les Alphas, Maëlyss, Oner, Saf Noruff, Scam Leon, SkiiZo & Slim. Anonymous Label propose aux artistes une offre complète de services (contrat d'enregistrement exclusif ou contrat d'artiste, contrat de producteur exécutif, contrat de licence exclusive, contrat de distribution).",
+  "artists": [
+    {
+      "id": "A1",
+      "style": "Chanteurs – Hip-hop français",
+      "name": "2mezur",
+      "description": "2mezur est un Groupe indépendant de Rap français composé de deux rappeurs, Cevi & Zeufa originaires du Val-de-Marne (94). Après une pause de plusieurs années, ils reviennent en 2020 avec l'EP 7 titres #BLCSTAP, puis en 2021 avec une série de freestyles intitulée : #EnModeClassic. Entièrement clipée et disponible sur YouTube, elle a été repostée et partagée par de nombreux artistes (sniper, Joey Starr, Zoxea, Scred connexion, Busta Flex, Sat). En 2022, ils nous présentent un second Ep de 15 titres : B.L.C.S.T.A.P II. B.L.C.S.T.A.P. Il est disponible sur toutes les plateformes de streaming et en format physique sur www.scredboutique.com. C’est un projet de 15 titres mélangeant Trap, Drill, Boombap avec Mehsah à la prod (entres autres) et un Feat avec Swift Guad. Ce projet est un mélange de sonorités actuelles tout en gardant du fond. Avec ce projet, 2mezur a pour objectif d'augmenter sa visibilité aussi bien sur les réseaux qu'au travers des médias traditionnels et également de se produire sur scène.",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880165/AnonymousLabel/portraits-artistes/2mezur_tr9rai.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A2",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Berlan",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880165/AnonymousLabel/portraits-artistes/berlan_wrouyv.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A3",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Dr.R & Mr.M",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/doc-r_pvenry.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A4",
+      "style": "Chanteurs – Hip-hop français",
+      "name": "Evil Venom",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/evil-venom_sqxfmg.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/bandcamp_r6bt4c.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A5",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Lascaride",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/Lascaride_dknkar.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A6",
+      "style": "Chanteurs – Hip-hop français",
+      "name": "Les Alphas",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/les-alphas_dylxlu.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A7",
+      "style": "Chanteuse – Pop urbaine",
+      "name": "Maëlyss",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880165/AnonymousLabel/portraits-artistes/maelyss_f8idup.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/tiktok_ykfoj4.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A8",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Oner",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880165/AnonymousLabel/portraits-artistes/Oner_z6ycyw.jpg",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/soundcloud_t3ltww.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/twitter_ptkhlb.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A9",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Saf Noruff",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/saf-noruff_aajcaf.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/bandcamp_r6bt4c.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A10",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Scam Leon",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/scam-leon_avgduf.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A11",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Skiizo",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880164/AnonymousLabel/portraits-artistes/skiizo_gmsoii.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    },
+    {
+      "id": "A12",
+      "style": "Chanteur – Hip-hop français",
+      "name": "Slim",
+      "description": "",
+      "picture": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680880165/AnonymousLabel/portraits-artistes/slim_khdaz8.webp",
+      "media": [
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/deezer_egnati.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/spotify_xa8rfz.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869783/AnonymousLabel/socialmedia/Itunes_fwbuue.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/youtube_zvyd9x.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/instagram_ku23fo.png"
+        },
+        {
+          "url": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680869784/AnonymousLabel/socialmedia/facebook_mrqclc.png"
+        }
+      ],
+      "actuality": [{ "text": "" }, { "picture": "" }],
+      "videos": [
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" },
+        { "clip": "" }
+      ],
+      "discography": [
+        { "album": "" },
+        { "album": "" },
+        { "album": "" },
+        { "album": "" }
+      ],
+      "logo": ""
+    }
+  ]
+}
