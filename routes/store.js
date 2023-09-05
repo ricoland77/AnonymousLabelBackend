@@ -14,7 +14,7 @@ const store = require("../data/store.json");
 
 const Store = require("../models/Store");
 
-router.get("/store/projects/", async (req, res) => {
+router.get("/store/projects", async (req, res) => {
   try {
     res.status(200).json(store);
   } catch (error) {
