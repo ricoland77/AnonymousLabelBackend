@@ -30,6 +30,14 @@ router.get(`/store/packs/`, async (req, res) => {
   }
 });
 
+router.get(`/store/goodies/`, async (req, res) => {
+  try {
+    res.status(200).json(store.goodies);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+});
+
 router.post("/payment", async (req, res) => {
   try {
     const {
