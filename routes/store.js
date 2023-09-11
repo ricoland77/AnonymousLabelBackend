@@ -22,6 +22,14 @@ router.get(`/store/projects/`, async (req, res) => {
   }
 });
 
+router.get(`/store/packs/`, async (req, res) => {
+  try {
+    res.status(200).json(store.packs);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+});
+
 router.post("/payment", async (req, res) => {
   try {
     const {
