@@ -17,7 +17,6 @@ const Store = require("../models/Store");
 router.get(`/store/projects/`, async (req, res) => {
   try {
     res.status(200).json(store.projects);
-    console.log(store.projects);
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
