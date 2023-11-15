@@ -22,7 +22,7 @@ router.post("/contact", async (req, res) => {
       .send(
         {
           from: email,
-          to: "anonymous.label.am@gmail.com",
+          to: "contactanonymouslabel@gmail.com",
           subject: subject,
           html: message,
         },
