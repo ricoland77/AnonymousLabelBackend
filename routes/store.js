@@ -60,7 +60,7 @@ router.post("/payment", async (req, res) => {
       console.log(email);
       try {
         const mailOptions = {
-          from: "anonymous.label.am@gmail.com",
+          from: "contactanonymouslabel@gmail.com",
           to: email,
           subject: "Résumé de votre commande",
           html: `<h1>Résumé de votre commande</h1>

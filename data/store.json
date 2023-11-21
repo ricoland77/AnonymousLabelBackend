@@ -5,7 +5,36 @@
   },
   "projects": [
     {
-      "id": "a01",
+      "id": "a19",
+      "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1700568082/AnonymousLabel/covers/Lascaride/rue-des-pleiades-recto_rw0bwh.webp",
+      "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1700568083/AnonymousLabel/covers/Lascaride/rue-des-pleiades-verso_cw3gue.webp",
+      "new": "Nouveauté",
+      "outStock": "Rupture de stock",
+      "stock": 200,
+      "type": "Album",
+      "artist": "Lascaride",
+      "name": "Rue des pléiades",
+      "description": "Album Lascaride - Rue des pléiades - 18 titres avec quelques featuring",
+      "price": 13,
+      "solde": "",
+      "tva": "Hors TVA",
+      "subscriber": "Prix pour les abonnés",
+      "titles": [
+        "01. ",
+        "02. ",
+        "03. ",
+        "04. ",
+        "05. ",
+        "06. ",
+        "07. ",
+        "08. ",
+        "09. "
+      ],
+      "availability": "disponible le 29/09/2023 uniquement en physique mais vous pouvez dès à présent le pré-commander.",
+      "copyright": "Anonymous Label - © Copyright 2023"
+    },
+    {
+      "id": "a18",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681801330/AnonymousLabel/covers/Degy/degy-album_e7qhib.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688631121/AnonymousLabel/covers/Degy/comme-un-piaf-verso_ulmlgj.jpg",
       "new": "Nouveauté",
@@ -37,7 +66,7 @@
       "copyright": "Anonymous Label - © Copyright 2023"
     },
     {
-      "id": "a02",
+      "id": "a17",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681453723/AnonymousLabel/covers/saf-noruff/revolverbe-saf_atq75e.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688648027/AnonymousLabel/covers/saf-noruff/revolverbe-saf-verso_g5njg4.webp",
       "new": "Nouveauté",
@@ -63,7 +92,7 @@
       "copyright": "Anonymous Label - © Copyright 2023"
     },
     {
-      "id": "a03",
+      "id": "a16",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681364196/AnonymousLabel/covers/EvilVenom/casus-belli-sowil_gdgyc7.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -97,7 +126,7 @@
       "copyright": "Anonymous Label - © Copyright 2023"
     },
     {
-      "id": "a04",
+      "id": "a15",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681394651/AnonymousLabel/covers/scam-leon/systemD_fsscyc.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -124,7 +153,7 @@
       "copyright": "Anonymous Label - © Copyright 2022"
     },
     {
-      "id": "a05",
+      "id": "a14",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681311029/AnonymousLabel/covers/Berlan/mis-a-jour_npaifb.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -156,7 +185,7 @@
       "copyright": "Anonymous Label - © Copyright 2021"
     },
     {
-      "id": "a06",
+      "id": "a13",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681378155/AnonymousLabel/covers/Lascaride/antre-ciel-et-terre_fflrey.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -188,7 +217,7 @@
       "copyright": "Anonymous Label - © Copyright 2021"
     },
     {
-      "id": "a07",
+      "id": "a12",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681365936/AnonymousLabel/covers/EvilVenom/formez-rangs_qv8dec.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -221,7 +250,7 @@
       "copyright": "Anonymous Label - © Copyright 2021"
     },
     {
-      "id": "a08",
+      "id": "a11",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681401211/AnonymousLabel/covers/slim/nouvel-arrivage_clevlg.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688648526/AnonymousLabel/covers/Berlan/mis-a-jour-verso_vdla1c.jpg",
       "new": "",
@@ -254,7 +283,7 @@
       "copyright": "Anonymous Label - © Copyright 2020"
     },
     {
-      "id": "a09",
+      "id": "a10",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681391228/AnonymousLabel/covers/saf-noruff/revolverbe_wmm6qa.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -281,7 +310,7 @@
       "copyright": "Anonymous Label - © Copyright 2020"
     },
     {
-      "id": "a10",
+      "id": "a09",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782255/AnonymousLabel/albums/bastos-old-timer_vj6xq1.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688652960/AnonymousLabel/covers/Bastos-old-timer/bastos-verso_qoewpf.jpg",
       "new": "",
@@ -310,7 +339,7 @@
       "copyright": "Anonymous Label - © Copyright 2019"
     },
     {
-      "id": "a11",
+      "id": "a08",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681365934/AnonymousLabel/covers/EvilVenom/prophetie_mjqhpe.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -328,7 +357,7 @@
       "copyright": "Anonymous Label - © Copyright 2020"
     },
     {
-      "id": "a12",
+      "id": "a07",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1680782257/AnonymousLabel/albums/rodkilla-ovni_va10kh.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -358,7 +387,7 @@
       "copyright": "Anonymous Label - © Copyright 2019"
     },
     {
-      "id": "a13",
+      "id": "a06",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681380757/AnonymousLabel/covers/lesAlphas/norcam-city_lmnj7f.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688649001/AnonymousLabel/covers/lesAlphas/norman-city-verso_zsqw34.jpg",
       "new": "",
@@ -387,7 +416,7 @@
       "copyright": "Anonymous Label - © Copyright 2019"
     },
     {
-      "id": "a14",
+      "id": "a05",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681391228/AnonymousLabel/covers/saf-noruff/passe-passe_hxr04v.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -413,7 +442,7 @@
       "copyright": "Anonymous Label - © Copyright 2019"
     },
     {
-      "id": "a15",
+      "id": "a04",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681398407/AnonymousLabel/covers/Skiizo/Skiizo01_a2dcew.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -437,7 +466,7 @@
       "copyright": "Anonymous Label - © Copyright 2018"
     },
     {
-      "id": "a16",
+      "id": "a03",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681398406/AnonymousLabel/covers/Skiizo/ramses_gheh4v.jpg",
       "picture2": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1688649208/AnonymousLabel/covers/Skiizo/ramses-verso_aglvf6.jpg",
       "new": "",
@@ -468,7 +497,7 @@
       "copyright": "Anonymous Label - © Copyright 2018"
     },
     {
-      "id": "a17",
+      "id": "a02",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1681380757/AnonymousLabel/covers/lesAlphas/hnine_hqtxye.jpg",
       "new": "",
       "outStock": "Rupture de stock",
@@ -495,7 +524,7 @@
       "copyright": "Anonymous Label - © Copyright"
     },
     {
-      "id": "a18",
+      "id": "a01",
       "picture1": "https://res.cloudinary.com/dn7pf2dts/image/upload/v1687253189/AnonymousLabel/albums/heure-verite-rodkilla_icmla8.jpg",
       "new": "",
       "outStock": "Rupture de stock",
